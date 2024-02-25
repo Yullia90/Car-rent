@@ -1,8 +1,8 @@
 {
-  "name": "test-frontend",
+  "name": "Car-rent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IvanTymoshchuk.github.io/test-frontend",
+  "homepage": "https://Yullia90.github.io/Car-rent",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
