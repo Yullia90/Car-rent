@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import backgroundImg from '../../img/1316873404_zdx_162_1920.jpg';
+import backgroundImg from '../../img/1316873404_www.nevseoboi.com.ua_cottoc.net_acura_zdx_162_1920.jpg';
 import Buttons from 'components/Button/Button';
 import { Container, Text } from './Home.styled';
 
